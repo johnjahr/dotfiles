@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = johnjohn@jahr.com
+	name = John Jahr
